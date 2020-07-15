@@ -2,7 +2,6 @@ Kode Orang
 - selalu belajar dari kode orang
   *tidak merasa puas
   *selalu timbul rasa penasaran
-- merasa kode yang kita buat belum sempurna
 - menjadikan kode orang untuk referensi
 - tidak menggukan kode orang dengan sepenuhnya
   *belajar membaca kode
