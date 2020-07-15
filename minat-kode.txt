@@ -1,0 +1,5 @@
+Minat Kode
+- HTML
+- CSS 
+- Javascript
+- PHP
