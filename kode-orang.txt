@@ -5,3 +5,4 @@ Kode Orang
 - merasa kode yang kita buat belum sempurna
 - menjadikan kode orang untuk referensi
 - tidak menggukan kode orang dengan sepenuhnya
+  *belajar membaca kode
