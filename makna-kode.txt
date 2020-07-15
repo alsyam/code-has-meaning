@@ -2,3 +2,4 @@ Makna Kode
 - Setiap kode yang saya tulis bisa memberikan makna
 - Kode bisa membuat saya lebih berkembang
 - Dengan kode saya bisa memberikan dampak positif yang lebih luas
+- Membuat kode untuk membantu banyak orang
